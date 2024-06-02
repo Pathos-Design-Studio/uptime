@@ -11,6 +11,8 @@ sites:
     url: https://www.amandlaproject.org/
   - name: Lynn Scott Photography
     url: https://www.lynnscott.photo/
+  - name: Pathos Design Site
+    url: https://pathosdesign.studio/
 
 status-website:
   baseUrl: /uptime
