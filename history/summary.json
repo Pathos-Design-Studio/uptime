@@ -40,19 +40,19 @@
     "url": "https://www.amandlaproject.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.amandlaproject.org.ico",
     "slug": "the-amandla-project",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 844,
-    "timeDay": 507,
-    "timeWeek": 844,
-    "timeMonth": 844,
-    "timeYear": 844,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.38%",
+    "time": 767,
+    "timeDay": 482,
+    "timeWeek": 767,
+    "timeMonth": 767,
+    "timeYear": 767,
     "dailyMinutesDown": {
-      "2024-06-03": 0
+      "2024-06-03": 14
     }
   },
   {
