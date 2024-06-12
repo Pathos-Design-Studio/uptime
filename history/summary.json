@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/freshairemech.com.ico",
     "slug": "fresh-aire-mechanical",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 518,
-    "timeDay": 476,
-    "timeWeek": 364,
-    "timeMonth": 518,
-    "timeYear": 518,
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 492,
+    "timeDay": 123,
+    "timeWeek": 334,
+    "timeMonth": 492,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2024-06-03": 27
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 409,
-    "timeWeek": 252,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "time": 264,
+    "timeDay": 282,
+    "timeWeek": 256,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 279,
-    "timeWeek": 447,
-    "timeMonth": 581,
-    "timeYear": 581,
+    "time": 575,
+    "timeDay": 497,
+    "timeWeek": 453,
+    "timeMonth": 575,
+    "timeYear": 575,
     "dailyMinutesDown": {}
   },
   {
@@ -60,17 +60,19 @@
     "url": "https://www.lynnscott.photo/",
     "icon": "https://icons.duckduckgo.com/ip3/www.lynnscott.photo.ico",
     "slug": "lynn-scott-photography",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 710,
-    "timeWeek": 464,
-    "timeMonth": 465,
-    "timeYear": 465,
-    "dailyMinutesDown": {}
+    "time": 467,
+    "timeDay": 497,
+    "timeWeek": 468,
+    "timeMonth": 467,
+    "timeYear": 467,
+    "dailyMinutesDown": {
+      "2024-06-12": 0
+    }
   }
 ]
