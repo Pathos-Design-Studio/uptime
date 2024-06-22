@@ -4,10 +4,10 @@
     "url": "https://freshairemech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/freshairemech.com.ico",
     "slug": "fresh-aire-mechanical",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 394,
@@ -16,6 +16,7 @@
     "timeMonth": 394,
     "timeYear": 394,
     "dailyMinutesDown": {
+      "2024-06-22": 1,
       "2024-06-03": 27
     }
   },
@@ -42,9 +43,9 @@
     "url": "https://www.amandlaproject.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.amandlaproject.org.ico",
     "slug": "the-amandla-project",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +54,9 @@
     "timeWeek": 470,
     "timeMonth": 526,
     "timeYear": 526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-22": 0
+    }
   },
   {
     "name": "Lynn Scott Photography",
@@ -61,18 +64,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lynnscott.photo.ico",
     "slug": "lynn-scott-photography",
     "status": "down",
-    "uptime": "54.22%",
+    "uptime": "51.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.22%",
-    "uptimeYear": "54.22%",
+    "uptimeMonth": "51.78%",
+    "uptimeYear": "51.78%",
     "time": 507,
     "timeDay": 575,
     "timeWeek": 618,
     "timeMonth": 507,
     "timeYear": 507,
     "dailyMinutesDown": {
-      "2024-06-22": 40,
+      "2024-06-22": 1380,
       "2024-06-21": 1440,
       "2024-06-20": 1440,
       "2024-06-19": 1440,
