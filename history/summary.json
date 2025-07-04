@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/freshairemech.com.ico",
     "slug": "fresh-aire-mechanical",
     "status": "up",
-    "uptime": "93.23%",
+    "uptime": "93.25%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "24.22%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "27.50%",
     "uptimeYear": "92.67%",
     "time": 357,
-    "timeDay": 458,
-    "timeWeek": 313,
+    "timeDay": 468,
+    "timeWeek": 347,
     "timeMonth": 332,
-    "timeYear": 354,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2025-06-26": 138,
       "2025-06-25": 1440,
@@ -85,8 +85,7 @@
       "2024-09-03": 19,
       "2024-08-05": 19,
       "2024-07-29": 20,
-      "2024-07-28": 24,
-      "2024-07-04": 22
+      "2024-07-28": 24
     }
   },
   {
@@ -101,9 +100,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 331,
-    "timeDay": 412,
-    "timeWeek": 220,
-    "timeMonth": 305,
+    "timeDay": 424,
+    "timeWeek": 254,
+    "timeMonth": 299,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2025-06-27": 30,
@@ -124,9 +123,9 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.70%",
     "time": 536,
-    "timeDay": 544,
-    "timeWeek": 627,
-    "timeMonth": 563,
+    "timeDay": 605,
+    "timeWeek": 641,
+    "timeMonth": 568,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2025-06-25": 23,
@@ -174,8 +173,7 @@
       "2024-09-03": 18,
       "2024-08-05": 18,
       "2024-07-29": 20,
-      "2024-07-28": 24,
-      "2024-07-04": 22
+      "2024-07-28": 24
     }
   },
   {
@@ -184,18 +182,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lynnscott.photo.ico",
     "slug": "lynn-scott-photography",
     "status": "down",
-    "uptime": "2.71%",
+    "uptime": "2.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 483,
-    "timeDay": 305,
-    "timeWeek": 440,
-    "timeMonth": 456,
-    "timeYear": 481,
+    "time": 484,
+    "timeDay": 689,
+    "timeWeek": 480,
+    "timeMonth": 450,
+    "timeYear": 482,
     "dailyMinutesDown": {
-      "2025-07-03": 60,
+      "2025-07-04": 60,
+      "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
@@ -558,8 +557,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   }
 ]
