@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/freshairemech.com.ico",
     "slug": "fresh-aire-mechanical",
     "status": "up",
-    "uptime": "94.49%",
+    "uptime": "94.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.68%",
     "time": 354,
-    "timeDay": 475,
-    "timeWeek": 374,
-    "timeMonth": 316,
+    "timeDay": 330,
+    "timeWeek": 365,
+    "timeMonth": 318,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2025-07-27": 67,
@@ -95,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 322,
-    "timeDay": 462,
-    "timeWeek": 391,
-    "timeMonth": 316,
+    "timeDay": 460,
+    "timeWeek": 403,
+    "timeMonth": 326,
     "timeYear": 326,
     "dailyMinutesDown": {
       "2025-08-26": 34,
@@ -132,9 +132,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 541,
-    "timeDay": 548,
-    "timeWeek": 513,
-    "timeMonth": 618,
+    "timeDay": 615,
+    "timeWeek": 553,
+    "timeMonth": 623,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2025-07-27": 67,
@@ -194,12 +194,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 491,
-    "timeDay": 457,
-    "timeWeek": 464,
-    "timeMonth": 592,
+    "timeDay": 426,
+    "timeWeek": 485,
+    "timeMonth": 587,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2025-10-03": 54,
+      "2025-10-04": 51,
+      "2025-10-03": 1440,
       "2025-10-02": 1440,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
@@ -562,8 +563,7 @@
       "2024-10-08": 1440,
       "2024-10-07": 1440,
       "2024-10-06": 1440,
-      "2024-10-05": 1440,
-      "2024-10-04": 1440
+      "2024-10-05": 1440
     }
   }
 ]
