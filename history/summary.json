@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "92.71%",
     "time": 346,
-    "timeDay": 391,
-    "timeWeek": 324,
-    "timeMonth": 319,
+    "timeDay": 287,
+    "timeWeek": 307,
+    "timeMonth": 318,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2025-12-12": 29,
@@ -73,8 +73,7 @@
       "2025-02-01": 18,
       "2025-01-30": 26,
       "2025-01-10": 27,
-      "2025-01-07": 135,
-      "2024-12-15": 45
+      "2025-01-07": 135
     }
   },
   {
@@ -89,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 325,
-    "timeDay": 405,
-    "timeWeek": 371,
-    "timeMonth": 349,
+    "timeDay": 303,
+    "timeWeek": 364,
+    "timeMonth": 353,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2025-08-26": 34,
@@ -126,10 +125,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.74%",
     "time": 541,
-    "timeDay": 641,
-    "timeWeek": 571,
-    "timeMonth": 615,
-    "timeYear": 541,
+    "timeDay": 746,
+    "timeWeek": 588,
+    "timeMonth": 623,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2025-12-12": 29,
       "2025-07-27": 67,
@@ -166,8 +165,7 @@
       "2025-02-01": 17,
       "2025-01-30": 25,
       "2025-01-10": 27,
-      "2025-01-07": 133,
-      "2024-12-15": 43
+      "2025-01-07": 133
     }
   },
   {
@@ -176,18 +174,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lynnscott.photo.ico",
     "slug": "lynn-scott-photography",
     "status": "down",
-    "uptime": "1.92%",
+    "uptime": "1.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 492,
-    "timeDay": 455,
-    "timeWeek": 457,
-    "timeMonth": 461,
+    "timeDay": 408,
+    "timeWeek": 453,
+    "timeMonth": 447,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-12-14": 67,
+      "2025-12-15": 65,
+      "2025-12-14": 1440,
       "2025-12-13": 1440,
       "2025-12-12": 1440,
       "2025-12-11": 1440,
@@ -550,8 +549,7 @@
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
-      "2024-12-16": 1440,
-      "2024-12-15": 1440
+      "2024-12-16": 1440
     }
   }
 ]
