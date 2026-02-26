@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/freshairemech.com.ico",
     "slug": "fresh-aire-mechanical",
     "status": "up",
-    "uptime": "95.75%",
+    "uptime": "95.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.80%",
+    "uptimeYear": "92.81%",
     "time": 349,
-    "timeDay": 673,
-    "timeWeek": 391,
-    "timeMonth": 304,
+    "timeDay": 401,
+    "timeWeek": 389,
+    "timeMonth": 313,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2025-12-12": 29,
@@ -62,8 +62,7 @@
       "2025-03-22": 20,
       "2025-03-17": 30,
       "2025-03-12": 24,
-      "2025-03-03": 18,
-      "2025-02-26": 19
+      "2025-03-03": 18
     }
   },
   {
@@ -78,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 326,
-    "timeDay": 251,
-    "timeWeek": 320,
-    "timeMonth": 291,
+    "timeDay": 390,
+    "timeWeek": 318,
+    "timeMonth": 296,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2025-08-26": 34,
@@ -113,12 +112,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 538,
-    "timeDay": 432,
-    "timeWeek": 514,
-    "timeMonth": 524,
-    "timeYear": 536,
+    "timeDay": 539,
+    "timeWeek": 518,
+    "timeMonth": 529,
+    "timeYear": 535,
     "dailyMinutesDown": {
       "2025-12-12": 29,
       "2025-07-27": 67,
@@ -144,8 +143,7 @@
       "2025-03-22": 20,
       "2025-03-17": 29,
       "2025-03-12": 23,
-      "2025-03-03": 17,
-      "2025-02-26": 18
+      "2025-03-03": 17
     }
   },
   {
@@ -154,18 +152,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.lynnscott.photo.ico",
     "slug": "lynn-scott-photography",
     "status": "down",
-    "uptime": "1.70%",
+    "uptime": "1.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 488,
-    "timeDay": 739,
-    "timeWeek": 447,
-    "timeMonth": 442,
+    "time": 489,
+    "timeDay": 645,
+    "timeWeek": 480,
+    "timeMonth": 451,
     "timeYear": 501,
     "dailyMinutesDown": {
-      "2026-02-25": 82,
+      "2026-02-26": 76,
+      "2026-02-25": 1440,
       "2026-02-24": 1440,
       "2026-02-23": 1440,
       "2026-02-22": 1440,
@@ -528,8 +527,7 @@
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
-      "2025-02-27": 1440,
-      "2025-02-26": 1440
+      "2025-02-27": 1440
     }
   }
 ]
