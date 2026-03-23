@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/freshairemech.com.ico",
     "slug": "fresh-aire-mechanical",
     "status": "up",
-    "uptime": "95.91%",
+    "uptime": "95.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.82%",
-    "time": 344,
-    "timeDay": 151,
-    "timeWeek": 471,
-    "timeMonth": 350,
-    "timeYear": 335,
+    "uptimeYear": "92.83%",
+    "time": 345,
+    "timeDay": 454,
+    "timeWeek": 365,
+    "timeMonth": 358,
+    "timeYear": 336,
     "dailyMinutesDown": {
       "2025-12-12": 29,
       "2025-07-27": 67,
@@ -57,8 +57,7 @@
       "2025-04-03": 184,
       "2025-04-02": 3,
       "2025-03-28": 30,
-      "2025-03-27": 16,
-      "2025-03-23": 21
+      "2025-03-27": 16
     }
   },
   {
@@ -73,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 326,
-    "timeDay": 307,
-    "timeWeek": 302,
-    "timeMonth": 318,
+    "timeDay": 415,
+    "timeWeek": 330,
+    "timeMonth": 320,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2025-08-26": 34,
@@ -110,10 +109,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 542,
-    "timeDay": 372,
-    "timeWeek": 798,
-    "timeMonth": 592,
-    "timeYear": 538,
+    "timeDay": 556,
+    "timeWeek": 799,
+    "timeMonth": 602,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2025-12-12": 29,
       "2025-07-27": 67,
@@ -134,8 +133,7 @@
       "2025-04-03": 184,
       "2025-04-02": 2,
       "2025-03-28": 29,
-      "2025-03-27": 15,
-      "2025-03-23": 21
+      "2025-03-27": 15
     }
   },
   {
@@ -149,13 +147,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 489,
-    "timeDay": 423,
-    "timeWeek": 404,
-    "timeMonth": 450,
+    "time": 488,
+    "timeDay": 350,
+    "timeWeek": 396,
+    "timeMonth": 445,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2026-03-22": 82,
+      "2026-03-23": 82,
+      "2026-03-22": 1440,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
@@ -518,8 +517,7 @@
       "2025-03-27": 1440,
       "2025-03-26": 1440,
       "2025-03-25": 1440,
-      "2025-03-24": 1440,
-      "2025-03-23": 1440
+      "2025-03-24": 1440
     }
   }
 ]
