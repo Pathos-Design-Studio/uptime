@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/freshairemech.com.ico",
     "slug": "fresh-aire-mechanical",
     "status": "up",
-    "uptime": "96.25%",
+    "uptime": "96.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.91%",
-    "time": 333,
-    "timeDay": 264,
-    "timeWeek": 217,
-    "timeMonth": 293,
-    "timeYear": 335,
+    "time": 351,
+    "timeDay": 8499,
+    "timeWeek": 1391,
+    "timeMonth": 569,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2025-12-12": 29,
       "2025-07-27": 67,
@@ -46,8 +46,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
-      "2025-05-31": 914,
-      "2025-05-22": 35
+      "2025-05-31": 914
     }
   },
   {
@@ -61,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 329,
-    "timeDay": 145,
-    "timeWeek": 261,
-    "timeMonth": 309,
-    "timeYear": 312,
+    "time": 330,
+    "timeDay": 697,
+    "timeWeek": 314,
+    "timeMonth": 321,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2026-04-02": 47,
       "2025-08-26": 34,
@@ -97,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 533,
-    "timeDay": 465,
-    "timeWeek": 500,
-    "timeMonth": 525,
-    "timeYear": 541,
+    "time": 578,
+    "timeDay": 21822,
+    "timeWeek": 3564,
+    "timeMonth": 1233,
+    "timeYear": 598,
     "dailyMinutesDown": {
       "2025-12-12": 29,
       "2025-07-27": 67,
@@ -112,8 +111,7 @@
       "2025-06-15": 19,
       "2025-06-09": 47,
       "2025-06-08": 15,
-      "2025-06-04": 33,
-      "2025-05-22": 35
+      "2025-06-04": 33
     }
   },
   {
@@ -127,13 +125,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 483,
-    "timeDay": 44,
-    "timeWeek": 73,
-    "timeMonth": 390,
-    "timeYear": 476,
+    "time": 482,
+    "timeDay": 83,
+    "timeWeek": 71,
+    "timeMonth": 375,
+    "timeYear": 475,
     "dailyMinutesDown": {
-      "2026-05-21": 151,
+      "2026-05-22": 153,
+      "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
       "2026-05-18": 1440,
@@ -496,8 +495,7 @@
       "2025-05-26": 1440,
       "2025-05-25": 1440,
       "2025-05-24": 1440,
-      "2025-05-23": 1440,
-      "2025-05-22": 1440
+      "2025-05-23": 1440
     }
   }
 ]
