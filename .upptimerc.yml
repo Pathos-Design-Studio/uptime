@@ -9,8 +9,6 @@ sites:
     url: https://www.jlbremodels.com/
   - name: The Amandla Project
     url: https://www.amandlaproject.org/
-  - name: Lynn Scott Photography
-    url: https://www.lynnscott.photo/
 
 status-website:
   baseUrl: /uptime
