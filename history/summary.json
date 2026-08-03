@@ -4,17 +4,17 @@
     "url": "https://freshairemech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/freshairemech.com.ico",
     "slug": "fresh-aire-mechanical",
-    "status": "down",
-    "uptime": "96.54%",
-    "uptimeDay": "94.69%",
-    "uptimeWeek": "96.87%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "99.85%",
+    "status": "up",
+    "uptime": "96.53%",
+    "uptimeDay": "90.36%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "99.83%",
     "time": 345,
-    "timeDay": 269,
-    "timeWeek": 268,
-    "timeMonth": 310,
-    "timeYear": 338,
+    "timeDay": 278,
+    "timeWeek": 270,
+    "timeMonth": 309,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2025-12-12": 29,
       "2026-05-31": 54,
@@ -25,7 +25,7 @@
       "2026-07-26": 156,
       "2026-08-01": 179,
       "2026-08-02": 59,
-      "2026-08-03": 77
+      "2026-08-03": 139
     }
   },
   {
@@ -43,7 +43,7 @@
     "timeDay": 209,
     "timeWeek": 315,
     "timeMonth": 326,
-    "timeYear": 317,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2025-08-26": 34,
       "2026-04-02": 47,
@@ -55,17 +55,17 @@
     "url": "https://www.amandlaproject.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.amandlaproject.org.ico",
     "slug": "the-amandla-project",
-    "status": "down",
+    "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "95.35%",
-    "uptimeWeek": "97.11%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "99.86%",
-    "time": 581,
-    "timeDay": 403,
-    "timeWeek": 445,
-    "timeMonth": 491,
-    "timeYear": 588,
+    "uptimeDay": "91.03%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "99.84%",
+    "time": 580,
+    "timeDay": 371,
+    "timeWeek": 434,
+    "timeMonth": 486,
+    "timeYear": 587,
     "dailyMinutesDown": {
       "2025-12-12": 29,
       "2026-05-31": 49,
@@ -75,7 +75,7 @@
       "2026-07-26": 151,
       "2026-08-01": 171,
       "2026-08-02": 54,
-      "2026-08-03": 67
+      "2026-08-03": 129
     }
   }
 ]
