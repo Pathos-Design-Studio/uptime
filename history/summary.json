@@ -6,9 +6,9 @@
     "slug": "fresh-aire-mechanical",
     "status": "down",
     "uptime": "96.53%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "94.47%",
-    "uptimeMonth": "98.19%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "94.27%",
+    "uptimeMonth": "98.15%",
     "uptimeYear": "99.80%",
     "time": 344,
     "timeDay": 0,
@@ -28,7 +28,7 @@
       "2026-08-03": 139,
       "2026-08-04": 102,
       "2026-08-05": 72,
-      "2026-08-07": 5
+      "2026-08-07": 25
     }
   },
   {
@@ -60,9 +60,9 @@
     "slug": "the-amandla-project",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "94.85%",
-    "uptimeMonth": "98.30%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "99.81%",
     "time": 579,
     "timeDay": 0,
@@ -81,7 +81,7 @@
       "2026-08-03": 129,
       "2026-08-04": 97,
       "2026-08-05": 68,
-      "2026-08-07": 0
+      "2026-08-07": 20
     }
   }
 ]
