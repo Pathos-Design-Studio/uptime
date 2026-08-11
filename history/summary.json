@@ -4,16 +4,16 @@
     "url": "https://freshairemech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/freshairemech.com.ico",
     "slug": "fresh-aire-mechanical",
-    "status": "down",
-    "uptime": "96.44%",
-    "uptimeDay": "77.28%",
-    "uptimeWeek": "85.49%",
-    "uptimeMonth": "95.27%",
-    "uptimeYear": "99.56%",
+    "status": "up",
+    "uptime": "96.43%",
+    "uptimeDay": "76.45%",
+    "uptimeWeek": "85.26%",
+    "uptimeMonth": "95.21%",
+    "uptimeYear": "99.55%",
     "time": 343,
-    "timeDay": 339,
-    "timeWeek": 305,
-    "timeMonth": 312,
+    "timeDay": 343,
+    "timeWeek": 308,
+    "timeMonth": 315,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2025-12-12": 29,
@@ -31,7 +31,8 @@
       "2026-08-07": 339,
       "2026-08-08": 312,
       "2026-08-09": 323,
-      "2026-08-10": 311
+      "2026-08-10": 334,
+      "2026-08-11": 4
     }
   },
   {
@@ -47,8 +48,8 @@
     "uptimeYear": "99.94%",
     "time": 313,
     "timeDay": 674,
-    "timeWeek": 314,
-    "timeMonth": 334,
+    "timeWeek": 288,
+    "timeMonth": 335,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2025-08-26": 34,
@@ -61,17 +62,17 @@
     "url": "https://www.amandlaproject.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.amandlaproject.org.ico",
     "slug": "the-amandla-project",
-    "status": "down",
+    "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "78.97%",
-    "uptimeWeek": "86.49%",
-    "uptimeMonth": "95.58%",
-    "uptimeYear": "99.59%",
+    "uptimeDay": "78.13%",
+    "uptimeWeek": "86.27%",
+    "uptimeMonth": "95.52%",
+    "uptimeYear": "99.58%",
     "time": 566,
-    "timeDay": 393,
-    "timeWeek": 425,
-    "timeMonth": 473,
-    "timeYear": 577,
+    "timeDay": 397,
+    "timeWeek": 423,
+    "timeMonth": 470,
+    "timeYear": 576,
     "dailyMinutesDown": {
       "2025-12-12": 29,
       "2026-05-31": 49,
@@ -87,7 +88,8 @@
       "2026-08-07": 324,
       "2026-08-08": 282,
       "2026-08-09": 300,
-      "2026-08-10": 289
+      "2026-08-10": 312,
+      "2026-08-11": 4
     }
   }
 ]
