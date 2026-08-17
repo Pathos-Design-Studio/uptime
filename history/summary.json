@@ -4,17 +4,17 @@
     "url": "https://freshairemech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/freshairemech.com.ico",
     "slug": "fresh-aire-mechanical",
-    "status": "down",
+    "status": "up",
     "uptime": "96.34%",
-    "uptimeDay": "80.70%",
-    "uptimeWeek": "80.35%",
-    "uptimeMonth": "90.94%",
+    "uptimeDay": "79.44%",
+    "uptimeWeek": "80.12%",
+    "uptimeMonth": "90.89%",
     "uptimeYear": "99.18%",
-    "time": 343,
-    "timeDay": 297,
-    "timeWeek": 313,
-    "timeMonth": 311,
-    "timeYear": 334,
+    "time": 344,
+    "timeDay": 369,
+    "timeWeek": 325,
+    "timeMonth": 317,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2025-12-12": 29,
       "2026-05-31": 54,
@@ -38,7 +38,7 @@
       "2026-08-14": 326,
       "2026-08-15": 181,
       "2026-08-16": 407,
-      "2026-08-17": 273
+      "2026-08-17": 296
     }
   },
   {
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 313,
-    "timeDay": 158,
-    "timeWeek": 382,
-    "timeMonth": 322,
+    "timeDay": 437,
+    "timeWeek": 389,
+    "timeMonth": 325,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2025-08-26": 34,
@@ -68,16 +68,16 @@
     "url": "https://www.amandlaproject.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.amandlaproject.org.ico",
     "slug": "the-amandla-project",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "93.01%",
-    "uptimeWeek": "84.49%",
-    "uptimeMonth": "92.18%",
-    "uptimeYear": "99.29%",
-    "time": 574,
-    "timeDay": 501,
-    "timeWeek": 608,
-    "timeMonth": 517,
+    "uptimeDay": "91.75%",
+    "uptimeWeek": "84.26%",
+    "uptimeMonth": "92.13%",
+    "uptimeYear": "99.28%",
+    "time": 575,
+    "timeDay": 504,
+    "timeWeek": 604,
+    "timeMonth": 516,
     "timeYear": 579,
     "dailyMinutesDown": {
       "2025-12-12": 29,
@@ -101,7 +101,7 @@
       "2026-08-14": 312,
       "2026-08-15": 106,
       "2026-08-16": 373,
-      "2026-08-17": 94
+      "2026-08-17": 117
     }
   }
 ]
