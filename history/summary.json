@@ -4,16 +4,16 @@
     "url": "https://freshairemech.com/",
     "icon": "https://icons.duckduckgo.com/ip3/freshairemech.com.ico",
     "slug": "fresh-aire-mechanical",
-    "status": "down",
-    "uptime": "96.34%",
-    "uptimeDay": "88.89%",
-    "uptimeWeek": "83.29%",
-    "uptimeMonth": "89.06%",
+    "status": "up",
+    "uptime": "96.33%",
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "83.04%",
+    "uptimeMonth": "89.00%",
     "uptimeYear": "99.02%",
-    "time": 343,
-    "timeDay": 313,
-    "timeWeek": 361,
-    "timeMonth": 327,
+    "time": 344,
+    "timeDay": 344,
+    "timeWeek": 364,
+    "timeMonth": 329,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2025-12-12": 29,
@@ -42,7 +42,7 @@
       "2026-08-18": 109,
       "2026-08-19": 293,
       "2026-08-20": 301,
-      "2026-08-21": 98
+      "2026-08-21": 123
     }
   },
   {
@@ -72,16 +72,16 @@
     "url": "https://www.amandlaproject.org/",
     "icon": "https://icons.duckduckgo.com/ip3/www.amandlaproject.org.ico",
     "slug": "the-amandla-project",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "90.23%",
-    "uptimeWeek": "87.30%",
-    "uptimeMonth": "90.57%",
+    "uptimeDay": "90.25%",
+    "uptimeWeek": "87.05%",
+    "uptimeMonth": "90.51%",
     "uptimeYear": "99.15%",
     "time": 577,
-    "timeDay": 529,
-    "timeWeek": 590,
-    "timeMonth": 562,
+    "timeDay": 562,
+    "timeWeek": 593,
+    "timeMonth": 564,
     "timeYear": 586,
     "dailyMinutesDown": {
       "2025-12-12": 29,
@@ -109,7 +109,7 @@
       "2026-08-18": 75,
       "2026-08-19": 252,
       "2026-08-20": 272,
-      "2026-08-21": 83
+      "2026-08-21": 109
     }
   }
 ]
